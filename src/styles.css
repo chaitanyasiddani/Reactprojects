@@ -1,0 +1,14 @@
+.container{
+    width:100vw;
+    height:100vh;
+    display: grid;
+    height:100%;
+    width:100%;
+    grid-template-columns: repeat(4,400px);
+    grid-gap:10px;
+}
+.product-container{
+    border: 1px solid black;
+    
+}
+
